@@ -1,0 +1,10 @@
+* dotenv
+
+Common Lisp dotenv library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vityafx/dotenv.git   |
+| commit  | 1ca84fc  |
+| systems | dotenv |
+|---------+-------------------------------------------|
+
